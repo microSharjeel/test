@@ -2,6 +2,7 @@
 int  main(void)
 
 {
- static int r;	
+  int r;
+ 
  printf("here\n");
 }
